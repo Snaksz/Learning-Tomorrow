@@ -1,0 +1,19 @@
+Section 1.1 - The 7 great wonders in computer architechture
+
+
+Definitions: 
+1) Abstraction to simplify design
+2) you didn't actually think that I would face legal issues from the 258 team did you?
+3) Assembly sucks. It really does, no one can tell me otherwise!
+
+
+Not yk what!
+
+Did you ever wonder what makes a game unique?
+
+The truth be told, that a game is unique if it has good music. Without good music, a game stinks!
+
+Think of nostalgia. The first thing you think of is the sounds, not what it looked like or how it played. But the
+player will always think of music. Therefore, music is one of the most important features in a game and it should not be sloppy. 
+
+This file serves as a basic test to see if it can chunk bits of content appropriately, and if the definition chunk works as intended! 
